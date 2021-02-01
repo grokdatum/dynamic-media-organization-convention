@@ -1,6 +1,7 @@
 # dynamic-media-organization-convention
 
 Conventions:
+* These conventions allow for media helper scripts, such as sorting subdirectories by first character, or converting directory structures from flat to nested.
 * Filenames should be "normalized", e.g. converted to [a-z0-9] and periods "."
 * Filename should embed a hash such as SHA256, you can truncate it to 16 or so Characters, example "this.is.a.file...ABCDEF1234567890...txt.
 * This helps with tasks like de-duplication and bit-rot detection.
@@ -20,3 +21,12 @@ Conventions:
   * genre of media
   * audience of media (family / friends / public / private / etc)
   * preference of media (favorites, expendable, etc.)
+  * HD / 4K / 4K+ Video.
+  * author of content.
+  * method or engine of collection (youtube-dl, gallery-dl, wget, etc)
+  
+  These conventions should result in a very nested collection of directories such as the following:
+  
+  ./datahoard/.../0.../
+  ./datahoard/.../a.../
+  ./datahoard/.../b.../
