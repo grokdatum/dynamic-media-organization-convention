@@ -27,6 +27,6 @@ Conventions:
   
   These conventions should result in a very nested collection of directories such as the following:
   
-  ./datahoard/.../0.../
-  ./datahoard/.../a.../
-  ./datahoard/.../b.../
+     ./datahoard/.../0.../
+     ./datahoard/.../a.../
+     ./datahoard/.../b.../
