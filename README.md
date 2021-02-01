@@ -25,11 +25,3 @@ Conventions:
   * author of content.
   * method or engine of collection (youtube-dl, gallery-dl, wget, etc)
   
-  These conventions should result in a very nested collection of directories such as the following:
-
-
-```
-./datahoard/.../0.../
-./datahoard/.../a.../
-./datahoard/.../b.../
-```
