@@ -29,9 +29,7 @@ Conventions:
 
 
 ```
-
 ./datahoard/.../0.../
 ./datahoard/.../a.../
 ./datahoard/.../b.../
-
 ```
