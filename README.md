@@ -15,7 +15,7 @@ Conventions:
   * this.is.a.file...TAG1.TAG2.TAG3...txt
     * These tags should be part of a controlled vocabulary of userdefined tags, Tags can mean anything, such as preferred media, genre (Ebooks), Source (YOUTUBE), etc.
   * if you don't like periods then you can use spaces or underscores, I use periods because they are bash friendly and necessary for extensions already.
-* repo names can be based on just about anything, examples include:
+* repo names can be based on just about anythingm, and this can overlap with tagging, examples include:
   * subject of video (e.g. rihanna)
   * producer of media (e.g. Ebook producer)
   * genre of media
